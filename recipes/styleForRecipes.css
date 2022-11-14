@@ -1,0 +1,47 @@
+h1 {
+    color: #2f3555;
+}
+
+h2 {
+    color: #2f759c
+}
+
+h3 {
+    color: #2f456e
+}
+
+li {
+    color: #2f456e
+}
+
+a {
+    color: #2f85f0
+}
+
+p {
+    color: #2f456e
+}
+
+.box {
+    height: 490px;
+    width: 400px;
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid #2f456e;
+    background-color: #cdeaf9;
+
+}
+
+.box-2 {
+    height: 490px;
+    width: 400px;
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid #5f88b1;
+    background-color: #e4f4fc;
+
+}
+
+body {
+    background-color: #f5fafc;
+}
